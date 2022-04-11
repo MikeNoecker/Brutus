@@ -1,7 +1,4 @@
-# M4V_M4N, 4/1/22, Brutus: Directory bruteforcer (Averaging 0.2 seconds/ request)
-# ToFix: find way to get rid of line delimiter from txt, returns the wrong status code
-# ToDo: import wordlist as dictinary, for loop to concat dirs to url, return results, time outs (defualt 1)
-# add more perams(-o output to file, -q quiet mode, -t timeout, etc.), ssl cert verification
+# M4V_M4N, 4/1/22, Brutus: Directory bruteforcer
 from typing import Counter
 import requests, argparse, sys, time
 from datetime import datetime, time
