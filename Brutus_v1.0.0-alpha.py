@@ -1,6 +1,6 @@
-# M4V_M4N, 4/1/22, Brutus: Directory bruteforcer
-from typing import Counter
+# M4V_M4N, 4/20/22, Brutus: Directory bruteforcer
 import requests, argparse, sys, time
+from typing import Counter
 from datetime import datetime, time
 
 # Construct arg objs
