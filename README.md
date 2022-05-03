@@ -1,4 +1,4 @@
-# Brutus
+# Brutus: Directory Bruteforcer
 ## Dependancies
 <li>python</li>
 <li>pip install beutifulsoup4</li>
