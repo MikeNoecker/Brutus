@@ -1,8 +1,8 @@
 # Brutus: Directory Bruteforcer
 ## Dependancies
 <blockquote>python</blockquote>
-<li>pip install beutifulsoup4</li>
-<li>pip install requests</li>
+<blockquote>pip install beutifulsoup4</blockquote>
+<blockquote>pip install requests</blockquote>
 
 ## Use
 -u, --url           URL  
