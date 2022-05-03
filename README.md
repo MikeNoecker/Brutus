@@ -5,7 +5,7 @@
 <blockquote>pip install requests</blockquote>
 
 ## Use
--u, --url           URL  
+-u, --url           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL  
 -w, --wordlist      Path to word&nbsp;list  
 -v, --verbose       Verbose output  
 python Brutus.py -u https://www.google.com -w wordlist.txt
